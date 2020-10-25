@@ -1,0 +1,24 @@
+admin.php
+
+define("_AM_XCGAL_GENERALSET", "Module Settings" );
+define("_AM_XCGAL_MODULEADMIN","Module Admin:");
+define("_AM_XCGAL_HELP","Help");
+define("_AM_XCGAL_ABOUT","About");
+define('_AM_XCGAL_GOTOMOD','Go to module');
+
+// About.php constants
+define('_AM_NEWBB_AUTHOR_INFO', "Author Informations");
+define('_AM_NEWBB_AUTHOR_NAME', "Author");
+define('_AM_NEWBB_AUTHOR_WEBSITE', "Author's website");
+define('_AM_NEWBB_AUTHOR_EMAIL', "Author's email");
+define('_AM_NEWBB_AUTHOR_CREDITS', "Credits");
+define('_AM_NEWBB_MODULE_INFO', "Module Development Information");
+define('_AM_NEWBB_MODULE_STATUS', "Status");
+define('_AM_NEWBB_MODULE_DEMO', "Demo Site");
+define('_AM_NEWBB_MODULE_SUPPORT', "Official support site");
+define('_AM_NEWBB_MODULE_BUG', "Report a bug for this module");
+define('_AM_NEWBB_MODULE_FEATURE', "Suggest a new feature for this module");
+define('_AM_NEWBB_MODULE_DISCLAIMER', "Disclaimer");
+define('_AM_NEWBB_AUTHOR_WORD', "The Author's Word");
+define('_AM_NEWBB_BY','By');
+
